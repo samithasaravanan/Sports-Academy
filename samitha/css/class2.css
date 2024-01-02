@@ -1,0 +1,42 @@
+body{
+    margin:0;
+    padding:0;
+    background: linear-gradient(90deg, rgba(236,198,107,1) 0%, rgba(236,222,159,1) 0%);
+    height: 100px;
+}
+.container{
+    width:1000px;
+    height:550px;
+    background-color: orange;
+    margin-left: 300px;
+    margin-top: 50px; 
+    margin-bottom: 100px;
+    display:flex;
+}
+.imgdiv img{
+    width: 560px;
+    height:450spx;
+    margin-left: 370px;
+    margin-bottom:850px;
+    position: relative;
+    top: -300px;
+}
+.contact-div input{
+    margin:5px 0;
+    margin-right: 20px 0;
+}
+.control-div1 input{
+    width:250px;
+    height:35px;
+    margin-left: 50px;
+}
+.control-div2 button{
+    width:250px;
+    height:35px;
+    background-color: yellow;
+    margin-top:30px;
+    margin-left: 50px;
+}
+.common-div{
+    margin-top: 20px;
+}

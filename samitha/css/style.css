@@ -1,0 +1,55 @@
+
+    body{
+        margin:0;
+        padding:0;
+        background: linear-gradient(90deg, rgba(170,228,240,1) 0%, rgba(227,121,193,1) 100%);
+        height: 100vhr;
+    }
+    .container{
+        width:900px;
+        height:550px;
+        background-color: rgb(235, 225, 225);
+        margin-left: 300px;
+        margin-top: 50px;
+        margin-bottom: 100px;
+        display:flex;
+    }
+    .imgdiv img{
+        width:367px;
+    }
+    .contact-div{
+        width:583px;
+        height:550px;
+        background-color: rgb(236, 239, 241);
+        margin-left:35px ;
+    }
+    .control-div1{
+        width:250px;
+        height:320px;
+        background-color: rgb(236, 232, 235);
+    }
+    .control-div2{
+        width:270px;
+        height:250px;
+        background-color: rgb(236, 238, 235);
+    }
+    .common-div{
+        display:flex;
+        justify-content: flex-end;
+    }
+    .control-div1 input{
+        margin:10px 0;
+        width:230px;
+        height:20px;
+    }
+    textarea{
+
+        width:240px;
+        height:160px;
+    }
+    .contact-div input{
+        margin:20px 0;
+    }
+    .contact-div button {
+        background-color: rgb(219, 75, 75);
+    }

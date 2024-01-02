@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.imgdiv img{
+    position: relative;
+    bottom: -80px;
+    margin-left: 345px;
+}
+.control-div1 h1{
+    margin-left:500px;
+    position: relative;
+    bottom: -10px;
+    top: -120px;
+}
+.control-div2 h2{
+    margin-left:570px;
+    position: relative;
+    bottom: -10px;
+    top: -130px;
+
+}
