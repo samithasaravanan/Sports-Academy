@@ -2,7 +2,6 @@ body{
     margin: 0;
     padding: 0;
     background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(147,136,112,1) 100%);
-
     height: 100vhr;
 }
 .imgdiv img{
@@ -40,11 +39,10 @@ body{
     bottom: -83px;
 }
 .control-div3 button{
+    background-color:skyblue;
     height:25px;
     width:150px;
     margin-left: 130px;
     position: relative;
     bottom:-50px;
-
-
 }

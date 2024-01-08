@@ -1,0 +1,79 @@
+body{
+    margin:0;
+    padding:0;
+}
+.container{
+    width: 600px;
+    height:700px;
+    margin-left:400px;
+    background-color:powderblue;
+}
+.control-div1 input{
+    width:550px;
+    height: 30px;
+    margin-left: 10px;
+}
+.control-div2 input{
+    width: 200px;
+    height: 30px;
+    margin-left: 10px;
+}
+.control-div4 {
+    margin-left:300px;
+    position: relative;
+    top: -50px;
+}
+.control-div5{
+    position: relative;
+    left: -300px;
+}
+.control-div7{
+    margin-left:300px;
+    position: relative;
+    top: -50px;
+}
+.control-div8{
+    position: relative;
+    left: -300px;
+}
+.control-div9{
+    position: relative;
+    top: -50px;
+}
+.control-div9 p{
+    position: relative;
+    left: -300px;
+}
+.control-div10{
+    position: relative;
+    left: -300px;
+    top: -50px;
+}
+.control-div10 input{
+    width: 550px;
+}
+.control-div11 input{
+    width: 200px;
+}
+.control-div12 {
+    margin-left: 310px;
+    position: relative;
+    top:-70px;
+}
+.control-div12 input{
+    width: 200px;
+}
+.control-div13{
+    position: relative;
+    top: -50px;
+}
+.control-div14{
+    margin-left: 310px;
+    position: relative;
+    top:-620px;
+}
+.control-div14 input{
+    width: 200px;
+    position: relative;
+    left: -8px;
+}
