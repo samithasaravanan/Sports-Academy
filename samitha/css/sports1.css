@@ -25,24 +25,10 @@ body{
     bottom: -120px;
 }
 .control-div1 input{
-    height: 20px;
-    margin-left:20px;
-    margin-bottom:40px;
+    width: 200px;
+    height:20px;
     position: relative;
-    bottom: -150px;
-}
-.control-div2 input{
-    height: 20px;
-    margin-left:198px;
-    margin-bottom:40px;
-    position: relative;
-    bottom: -83px;
-}
-.control-div3 button{
-    background-color:skyblue;
-    height:25px;
-    width:150px;
-    margin-left: 130px;
-    position: relative;
-    bottom:-50px;
+    bottom: -130px;
+    margin-bottom: 20px;
+    margin-left:80px;
 }
