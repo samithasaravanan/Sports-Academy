@@ -47,15 +47,15 @@ body{
     margin:20px;
 }
 .reg-form form input{
-    width: 350px;
+    width: 500px;
     height:40px;
 }
 .reg-form form select{
-    width: 350px;
-    height:auto;
+    width: 500px;
+    height: 100px;
 }
 .reg-form textarea{
-    width: 355px;
+    width: 500px;
     height:100px;
 }
 .reg-form form span{
@@ -63,4 +63,26 @@ body{
     position: absolute;
     margin-left:-40px;
     border:1px solid grey;
+}
+.reg-form form button{
+    width: 500px;
+    height: 40px;
+    background-color: #f54410;
+}
+.border{
+    width: 100%;
+    height: 200px;
+    background-color:#f78a4e;
+}
+.border h1{
+    text-align: center;
+    position: relative;
+    bottom: -70px;
+}
+.footer{
+    width: 100%;
+    height:80px;
+    background-color:black;
+    text-align: center;
+    color: white;
 }
