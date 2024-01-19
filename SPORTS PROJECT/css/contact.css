@@ -1,0 +1,104 @@
+header{
+    width:100%;
+    height:40px;
+    background-color:#f39200;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+header span{
+    padding:0 10px;
+    font-weight:bolder;
+}
+body{
+    margin:0;
+    height:0;
+}
+.logo-content{
+    color: rgb(6, 30, 117);
+    font-size:34px;
+    font-weight: bolder;
+}
+.logo-content1{
+    color: rgb(255, 123, 0);
+    font-size:34px;
+    font-weight: bolder;
+}
+.navbar-nav{
+    display: flex;
+    justify-content: center;
+    width:700px;
+}
+.navbar{
+    border-bottom:1px solid rgba(97, 95, 95, 0.267);
+}
+.border{
+    width: 100%;
+    height: 200px;
+    background-color:#011375;
+}
+.border h1{
+    text-align: center;
+    position: relative;
+    bottom: -70px;
+    color: white;
+}
+.address{
+    width: 400px;
+    height: 300px;
+    background-color: #f78a4e;
+    margin-top: 100px;
+    justify-content: right;
+    position: relative;
+    top: -5px;
+}
+.address{
+    text-align: center;
+}
+.address{
+    text-align: center;
+}
+.contact{
+    width: 400px;
+    height: 300px;
+    background-color: #f78a4e;
+    margin-top: 100px;
+    justify-content: right;
+    position: relative;
+    right: -500px;
+    top: -400px;
+}
+.contact h4{
+    text-align: center;
+}
+.contact h5{
+    text-align: center;
+}
+.facality{
+    width: 400px;
+    height: 300px;
+    background-color: #f78a4e;
+    margin-top: 100px;
+    justify-content: right;
+    position: relative;
+    right: -950px;
+    top: -800px;
+}
+.facality h4{
+    text-align: center;
+}
+.facality h5{
+    text-align: center;
+    position: relative;
+}
+.footer{
+    width: 100%;
+    height:80px;
+    text-align: center;
+    background-color: rgb(0, 0, 0);
+    color:white ;
+}
+.footer h6{
+    color: rgb(0, 0, 0);
+    justify-content: center;
+}

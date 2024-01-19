@@ -72,7 +72,8 @@ body{
 .border{
     width: 100%;
     height: 200px;
-    background-color:#f78a4e;
+    background-color:rgb(6, 30, 117);
+    color: white;
 }
 .border h1{
     text-align: center;
