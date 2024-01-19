@@ -20,7 +20,7 @@ body{
     font-weight: bolder;
 }
 .logo-content1{
-    color: rgb(233, 70, 41);
+    color: rgb(255, 123, 0);
     font-size:34px;
     font-weight: bolder;
 }
@@ -31,6 +31,17 @@ body{
 }
 .navbar{
     border-bottom:1px solid rgba(97, 95, 95, 0.267);
+}
+.footer{
+    width: 100%;
+    height:80px;
+    text-align: center;
+    background-color: black;
+    color:white ;
+}
+.footer h6{
+    color: rgb(255, 255, 255);
+    justify-content: center;
 }
 .gallerydiv{
     width:100%;
@@ -78,44 +89,4 @@ body{
     bottom: -40px;
     border:none;
     color: white;
-}
-/* .aboutdiv{
-    width: 100%;
-    height:600px;
-   
-   
-} */
-.about{
-    width: 100%;
-    height:600px;
-    display: flex;
-    justify-content: center;
-    background-color:#f55702;
-    justify-content: space-around;
-}
-.imgdiv {
-    /* margin-left:80px; */
-    position: relative;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    background-color:#f55702;
-}
-
-.about1{
-    width:100%;
-    padding:20px;
-    position: relative;
-    background-color: white;
-}
-.footer{
-    width: 100%;
-    height:80px;
-    text-align: center;
-    background-color: black;
-    color:white ;
-}
-.footer h6{
-    color: rgb(255, 255, 255);
-    justify-content: center;
 }
