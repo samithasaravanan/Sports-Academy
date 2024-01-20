@@ -8,6 +8,7 @@ body{
     height:700px;
     margin-left:400px;
     background-color:powderblue;
+    border-radius: 20px;
 }
 .control-div1 input{
     width:550px;

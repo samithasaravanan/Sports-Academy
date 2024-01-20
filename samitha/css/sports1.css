@@ -6,23 +6,25 @@ body{
 }
 .imgdiv img{
     width: 300px;
-    height: 450px;
+    height:400px;
     margin-left:350px;
+    border-radius: 20px;
     position: relative;
     bottom: -80px;
 }
 .control-div1{
     background-color: whitesmoke;
-    width:400px;
-    height:450px;
-    margin-left:650px;
+    width:450px;
+    height:400px;
+    margin-left:600px;
+    border-radius: 20px;
     position: relative;
-    top: -395px;
+    top: -345px;
 }
 .control-div1 h1{
-    margin-left: 100px;
+    margin-left: 80px;
     position: relative;
-    bottom: -120px;
+    bottom: -100px;
 }
 .control-div1 input{
     width: 200px;
@@ -31,4 +33,18 @@ body{
     bottom: -130px;
     margin-bottom: 20px;
     margin-left:80px;
+}
+.control-div1 button{
+    width: 200px;
+    height: 25px;
+    position: relative;
+    bottom: -150px;
+    right:107px;
+    margin-bottom: 15px;
+    background-color: aqua;
+}
+a{
+    margin-left:75px;
+    position: relative;
+    bottom: -120px;
 }
